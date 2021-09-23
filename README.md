@@ -1,9 +1,10 @@
 ## Hi, I'm 성현 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 강해지고 싶은 개발자입니다.
 <br />
-<br />
+
 
 ### 🔭 Blog:
+
 <a href="https://velog.io/@chosh">
   <img src="https://img.shields.io/badge/Tech blog-20232A?style=flat-square&logo=GitBook&logoColor=F05032" />
 <a/>
@@ -50,6 +51,8 @@
 
 <br />
 <br />
+  
+---
 
 <details>
   <summary>🔎 More info </summary>
