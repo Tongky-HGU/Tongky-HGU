@@ -12,7 +12,13 @@
 <br />
 
 ### ⚔ Tech stack:
-
+ 
+<a href="https://ko.reactjs.org">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<a/>
+<a href="https://www.typescriptlang.org/">
+  <img src="https://img.shields.io/badge/TypeScript-20232A?style=flat-square&logo=TypeScript&logoColor=3178C6" />
+<a/>
 <a href="https://www.javascript.com">
   <img src="https://img.shields.io/badge/JavaScript-20232A?style=flat-square&logo=javascript&logoColor=F7DF1E" />
 <a/>
@@ -27,12 +33,6 @@
 <a/>
 <a href="https://git-scm.com">
   <img src="https://img.shields.io/badge/Git-20232A?style=flat-square&logo=Git&logoColor=F05032" />
-<a/>
-<a href="https://ko.reactjs.org">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<a/>
-<a href="https://www.typescriptlang.org/">
-  <img src="https://img.shields.io/badge/TypeScript-20232A?style=flat-square&logo=TypeScript&logoColor=3178C6" />
 <a/>
   
 <br />
