@@ -45,7 +45,7 @@
 <a href="https://github.com/Tongky-HGU">
   <img src="https://img.shields.io/badge/Tongky--HGU-20232A?style=flat-square&logo=GitHub&logoColor=FFFFFE" />
 <a/>
-<a href="https://www.instagram.com/_chosh">
+<a href="https://www.instagram.com/_chosh/">
   <img src="https://img.shields.io/badge/__chosh-20232A?style=flat-square&logo=Instagram&logoColor=E4405F" />
 <a/>
 
